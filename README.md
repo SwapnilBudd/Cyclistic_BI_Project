@@ -18,4 +18,5 @@ The dataset includes millions of rides, so the team wants a dashboard that summa
 Project goal: Grow Cyclistic’s Customer Base
 
 Primary dataset: NYC Citi Bike Trips
+
 Secondary dataset: Census Bureau US Boundaries
